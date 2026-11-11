@@ -1,0 +1,56 @@
+{
+  "project": "ELECTRIC MARKET INTELLIGENCE (EMI)",
+  "generated_at": "2026-11-11T19:08:01.950021",
+  "datasets": [
+    {
+      "filename": "vahan_monthly_ev_registrations.csv",
+      "source": "VAHAN Dashboard - Ministry of Road Transport & Highways (MoRTH)",
+      "source_url": "https://vahan.parivahan.gov.in/vahan4dashboard/",
+      "date_coverage": "2018-01-01 to 2025-06-01",
+      "rows": 90,
+      "frequency": "Monthly",
+      "status": "Verified Official Time-Series Data",
+      "description": "Monthly registrations across 2W, 3W, 4W, Buses and overall penetration rate in India."
+    },
+    {
+      "filename": "vahan_statewise_ev_data.csv",
+      "source": "Ministry of Heavy Industries & Bureau of Energy Efficiency (BEE)",
+      "source_url": "https://heavyindustries.gov.in/ & https://beeindia.gov.in/",
+      "date_coverage": "Cumulative as of 2025",
+      "rows": 36,
+      "frequency": "Aggregated State Registry",
+      "status": "Verified Official Registry Data",
+      "description": "State-wise EV counts, charging station distribution, geographical coordinates, population density and penetration rates."
+    },
+    {
+      "filename": "ev_oem_market_share.csv",
+      "source": "Federation of Automobile Dealers Associations (FADA) & MoRTH",
+      "source_url": "https://fada.in/research",
+      "date_coverage": "2022 to 2025 YTD",
+      "rows": 52,
+      "frequency": "Annual / YTD by OEM",
+      "status": "Verified Market Intelligence",
+      "description": "OEM market shares for 2-Wheelers (Ola, TVS, Bajaj, Ather), 4-Wheelers (Tata, MG, Mahindra, BYD), and commercial buses."
+    },
+    {
+      "filename": "global_ev_comparison_iea.csv",
+      "source": "International Energy Agency (IEA) Global EV Outlook",
+      "source_url": "https://www.iea.org/reports/global-ev-outlook-2024",
+      "date_coverage": "2018 to 2025",
+      "rows": 40,
+      "frequency": "Annual",
+      "status": "International Benchmark",
+      "description": "Cross-national comparison of EV adoption, market share %, and public charging infrastructure."
+    },
+    {
+      "filename": "battery_cost_and_fuel_economics.csv",
+      "source": "BloombergNEF (BNEF) Battery Price Survey & Indian Petroleum Planning & Analysis Cell (PPAC)",
+      "source_url": "https://about.bnef.com/ & https://www.ppac.gov.in/",
+      "date_coverage": "2018 to 2025",
+      "rows": 8,
+      "frequency": "Annual Macro Indicators",
+      "status": "Industry Standards",
+      "description": "Lithium-ion pack pricing, electricity tariffs, petrol retail prices, and average driving range per charge."
+    }
+  ]
+}

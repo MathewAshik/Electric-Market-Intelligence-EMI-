@@ -1,0 +1,53 @@
+Segment,OEM,Year,Sales_Units,Market_Share_Pct,HQ_City,Dominant_Model
+Two_Wheeler,Ola Electric,2022,109395,17.5,Bengaluru,S1 Pro / S1 Air
+Two_Wheeler,Ola Electric,2023,267320,31.2,Bengaluru,S1 Pro Gen 2
+Two_Wheeler,Ola Electric,2024,395400,33.4,Bengaluru,S1 X / S1 Pro
+Two_Wheeler,Ola Electric,2025,198000,29.8,Bengaluru,S1 X+
+Two_Wheeler,TVS Motor,2022,46840,7.5,Hosur,iQube
+Two_Wheeler,TVS Motor,2023,166540,19.4,Hosur,iQube ST
+Two_Wheeler,TVS Motor,2024,232100,19.6,Hosur,iQube Electric
+Two_Wheeler,TVS Motor,2025,142000,21.4,Hosur,iQube 2.2 kWh
+Two_Wheeler,Bajaj Auto,2022,25150,4.0,Pune,Chetak
+Two_Wheeler,Bajaj Auto,2023,71800,8.4,Pune,Chetak Premium
+Two_Wheeler,Bajaj Auto,2024,182400,15.4,Pune,Chetak Urbane
+Two_Wheeler,Bajaj Auto,2025,128500,19.3,Pune,Chetak 2901
+Two_Wheeler,Ather Energy,2022,52100,8.3,Bengaluru,450X Gen 3
+Two_Wheeler,Ather Energy,2023,105200,12.3,Bengaluru,450S / 450X
+Two_Wheeler,Ather Energy,2024,139800,11.8,Bengaluru,Rizta / 450 Apex
+Two_Wheeler,Ather Energy,2025,88400,13.3,Bengaluru,Rizta Family Scooter
+Two_Wheeler,Hero Electric,2022,96900,15.5,Gurugram,Optima CX
+Two_Wheeler,Hero Electric,2023,30200,3.5,Gurugram,Nyx
+Two_Wheeler,Hero Electric,2024,12400,1.0,Gurugram,Optima
+Two_Wheeler,Hero Electric,2025,4200,0.6,Gurugram,Flash
+Two_Wheeler,Greaves Electric (Ampere),2022,66300,10.6,Ranipet,Magnus EX
+Two_Wheeler,Greaves Electric (Ampere),2023,46100,5.4,Ranipet,Primus
+Two_Wheeler,Greaves Electric (Ampere),2024,38900,3.3,Ranipet,Nexus
+Two_Wheeler,Greaves Electric (Ampere),2025,22100,3.3,Ranipet,Nexus EX
+Four_Wheeler,Tata Motors,2022,34800,83.2,Mumbai,Nexon EV / Tigor EV
+Four_Wheeler,Tata Motors,2023,59500,72.8,Mumbai,Tiago EV / Nexon EV.ev
+Four_Wheeler,Tata Motors,2024,66800,67.2,Mumbai,Punch EV / Curvv EV
+Four_Wheeler,Tata Motors,2025,41200,63.5,Mumbai,Curvv EV / Harrier EV
+Four_Wheeler,MG Motor India,2022,4100,9.8,Gurugram,ZS EV
+Four_Wheeler,MG Motor India,2023,11200,13.7,Gurugram,Comet EV / ZS EV
+Four_Wheeler,MG Motor India,2024,18400,18.5,Gurugram,Windsor EV / Comet EV
+Four_Wheeler,MG Motor India,2025,13500,20.8,Gurugram,Windsor EV (BaaS)
+Four_Wheeler,Mahindra & Mahindra,2022,450,1.1,Mumbai,e-Verito
+Four_Wheeler,Mahindra & Mahindra,2023,4900,6.0,Mumbai,XUV400
+Four_Wheeler,Mahindra & Mahindra,2024,7800,7.8,Mumbai,XUV400 Pro / BE.05
+Four_Wheeler,Mahindra & Mahindra,2025,5600,8.6,Mumbai,BE 6e / XEV 9e
+Four_Wheeler,BYD India,2022,350,0.8,Chennai,e6 MPV
+Four_Wheeler,BYD India,2023,2300,2.8,Chennai,Atto 3
+Four_Wheeler,BYD India,2024,3100,3.1,Chennai,Seal / Atto 3 Dynamic
+Four_Wheeler,BYD India,2025,2200,3.4,Chennai,Seal / eMAX 7
+Four_Wheeler,Hyundai Motor India,2022,650,1.6,Gurugram,Kona Electric
+Four_Wheeler,Hyundai Motor India,2023,1850,2.3,Gurugram,Ioniq 5
+Four_Wheeler,Hyundai Motor India,2024,1950,2.0,Gurugram,Ioniq 5 / Creta EV
+Four_Wheeler,Hyundai Motor India,2025,1600,2.5,Gurugram,Creta EV
+Bus,Tata Motors Bus,2023,1150,39.0,Mumbai,Starbus EV
+Bus,Tata Motors Bus,2024,1620,42.0,Mumbai,Starbus Ultra EV
+Bus,Olectra Greentech,2023,780,26.4,Hyderabad,K9 / CX2
+Bus,Olectra Greentech,2024,1050,27.2,Hyderabad,K7 e-Bus
+Bus,JBM Auto,2023,520,17.6,Faridabad,ECOLIFE
+Bus,JBM Auto,2024,690,17.9,Faridabad,ECOLIFE 12m
+Bus,PMI Electro,2023,500,17.0,New Delhi,Foton-PMI 9m
+Bus,PMI Electro,2024,490,12.9,New Delhi,Foton-PMI 12m

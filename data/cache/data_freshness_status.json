@@ -1,0 +1,53 @@
+{
+  "last_global_sync": "2026-11-11 19:10:55",
+  "sources": [
+    {
+      "source_id": "vahan_morth",
+      "source_name": "VAHAN Dashboard (MoRTH)",
+      "url": "https://vahan.parivahan.gov.in/vahan4dashboard/",
+      "status_category": "LATEST PUBLISHED DATA",
+      "badge_text": "OFFLINE SNAPSHOT FALLBACK",
+      "is_live": false,
+      "records": 90,
+      "latency_ms": 0.0,
+      "last_synced": "2026-11-11 19:10:54",
+      "details": "Remote endpoint unreachable. Utilizing verified local snapshot."
+    },
+    {
+      "source_id": "bee_charging",
+      "source_name": "Bureau of Energy Efficiency (BEE)",
+      "url": "https://beeindia.gov.in/",
+      "status_category": "LATEST PUBLISHED DATA",
+      "badge_text": "OFFLINE SNAPSHOT FALLBACK",
+      "is_live": false,
+      "records": 36,
+      "latency_ms": 0.0,
+      "last_synced": "2026-11-11 19:10:54",
+      "details": "Remote endpoint unreachable. Utilizing verified local snapshot."
+    },
+    {
+      "source_id": "fada_oem",
+      "source_name": "Federation of Automobile Dealers Associations (FADA)",
+      "url": "https://fada.in/research",
+      "status_category": "LATEST PUBLISHED DATA",
+      "badge_text": "OFFLINE SNAPSHOT FALLBACK",
+      "is_live": false,
+      "records": 52,
+      "latency_ms": 0.0,
+      "last_synced": "2026-11-11 19:10:54",
+      "details": "Remote endpoint unreachable. Utilizing verified local snapshot."
+    },
+    {
+      "source_id": "iea_global",
+      "source_name": "International Energy Agency (IEA)",
+      "url": "https://www.iea.org/data-and-statistics",
+      "status_category": "LATEST PUBLISHED DATA",
+      "badge_text": "OFFLINE SNAPSHOT FALLBACK",
+      "is_live": false,
+      "records": 40,
+      "latency_ms": 0.0,
+      "last_synced": "2026-11-11 19:10:54",
+      "details": "Remote endpoint unreachable. Utilizing verified local snapshot."
+    }
+  ]
+}

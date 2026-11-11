@@ -1,0 +1,5 @@
+"""
+ELECTRIC MARKET INTELLIGENCE (EMI)
+Package root
+"""
+

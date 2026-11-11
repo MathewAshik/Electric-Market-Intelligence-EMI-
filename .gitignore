@@ -21,3 +21,4 @@ Thumbs.db
 
 # Cache DB (optional - keep processed and raw)
 data/cache/*.db
+
